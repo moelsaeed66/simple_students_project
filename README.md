@@ -1,2 +1,2 @@
 # simple_students_project
-first simple project
+php and mysql simple project
